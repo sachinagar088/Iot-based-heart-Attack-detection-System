@@ -11,5 +11,6 @@ With the help of heart beat sensor data is captured.<br>
 If any abnormal pattern of Heart rate is noticed the System Alerts the user.
 
 # Result
+![](Capture.PNG)
 
-
+![](Capture-2.PNG)
