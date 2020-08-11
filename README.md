@@ -1,9 +1,9 @@
 # Iot-based-Heart-Attack-Detection-System
 
 # Components Required
-Arduino <br>
-Heart Beat Sensor<br>
-Jumper Wires <br>
+1. Arduino <br>
+2. Heart Beat Sensor<br>
+3. Jumper Wires <br>
 
 # Working
 
